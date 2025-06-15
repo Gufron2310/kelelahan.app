@@ -2,4 +2,5 @@ streamlit
 numpy
 scipy
 scikit-fuzzy
-networkx
+matplotlib
+pandas
